@@ -1,0 +1,7 @@
+Short Explanation of .save() and Mongoose Model Usage: 
+
+A Mongoose model is a JavaScript representation of a MongoDB collection. It provides an interface to create, read, update, and delete documents in the database. 
+
+When we create a new instance of a model, we are essentially creating a new document. 
+
+The .save() method is used to insert that document into the MongoDB database.
